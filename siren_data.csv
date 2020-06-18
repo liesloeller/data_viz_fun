@@ -1,0 +1,28 @@
+Date,Time,AM/PM,Siren,Type,Vehicle,Direction,Notes
+6/14/2020,11:28,PM,Y,cop,SUV,S,
+6/14/2020,11:28,PM,Y,cop,car,S,
+6/14/2020,11:28,PM,Y,cop,SUV,S,
+6/14/2020,11:29,PM,N,cop,SUV,S,
+6/14/2020,11:29,PM,N,cop,car,S,
+6/14/2020,11:29,PM,N,cop,car,S,
+6/15/2020,10:32,AM,Y,EMS,ambulance,S,
+6/15/2020,10:47,AM,Y,cop,car,N,Pulled someone over right in fron of the Apt
+6/15/2020,10:48,AM,N,sheriff,car,N,Joined cop ^
+6/15/2020,10:56,AM,N,sheriff,car,N,Joined these two ^
+6/15/2020,10:58,AM,N,cop,bike,S,
+6/15/2020,10:58,AM,N,cop,bike,S,
+6/15/2020,1:05,PM,Y,fire,truck,S,
+6/15/2020,6:48,PM,Y,cop,car,N,
+6/16/2020,8:53,AM,Y,EMS,ambulance,N,
+6/16/2020,10:06,AM,Y,EMS,ambulance,S,
+6/16/2020,10:19,AM,Y,cop,car,S,
+6/16/2020,12:13,PM,Y,EMS,ambulance,N,
+6/16/2020,2:42,PM,Y,fire,truck,N,
+6/16/2020,2:45,PM,Y,fire,truck,S,
+6/16/2020,2:46,PM,N,cop,car,E,Stopped outside apt on Garfield cleaning door handles
+6/16/2020,7:11,PM,N,EMS,ambulance,S,
+6/17/2020,9:40,AM,Y,cop,car,N,
+6/17/2020,11:33,AM,Y,cop,car,S,
+6/17/2020,5:32,PM,N,cop,car,S,
+6/18/2020,11:09,AM,N,cop,car,S,
+,,,,,,,
